@@ -5,23 +5,23 @@ The project contains some problems and codes I did for practice and exams.
 
 Some of the problems you'll find inside are:
 
-1. The directory problem
+- The directory problem
 
 Please see the attached file Directory Question.jpg for the question.
 
-2. Gradebook
+- Gradebook
 
 Gradebook.java finds the average number of student with a particular letter grade.
 
-3. Matchstick problem
+- Matchstick problem
 
 The problem asks to find the number of iterations it will take to cut down all the match sticks with length given, if we cut in iterations where we choose the smallest stick and cut its length from the rest.
 
-4. Nodelist Problem
+- Nodelist Problem
 
 There is a class node and a class which symbolises a list of nodes.
 We want to dynamically sort the list of nodes such that if we print the node list after putting data into it, we get a sorted list always. The user of the node list should not make a explicit call to sort the node list.
  
-5. Relative positioning problem
+- Relative positioning problem
 
 Please see attached file 'Relative positioning problem.png' for the question.
