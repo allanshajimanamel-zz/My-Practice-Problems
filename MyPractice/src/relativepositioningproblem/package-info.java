@@ -11,4 +11,4 @@
  * @author ALLAN
  *
  */
-package shortestpathproblem;
+package relativepositioningproblem;

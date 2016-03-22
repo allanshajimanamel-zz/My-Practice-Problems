@@ -1,4 +1,4 @@
-package shortestpathproblem;
+package relativepositioningproblem;
 
 public class Solution {
 
