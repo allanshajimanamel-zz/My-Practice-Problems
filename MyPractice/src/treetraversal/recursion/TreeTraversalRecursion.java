@@ -1,4 +1,4 @@
-package traversal.recursion;
+package treetraversal.recursion;
 
 import java.util.ArrayList;
 import java.util.SortedMap;
