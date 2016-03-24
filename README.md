@@ -25,3 +25,7 @@ We want to dynamically sort the list of nodes such that if we print the node lis
 - Relative positioning problem
 
 Please see attached file 'Relative positioning problem.png' for the question.
+
+- Two Sum
+
+Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution.
