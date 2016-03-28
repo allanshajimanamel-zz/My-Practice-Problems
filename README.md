@@ -23,3 +23,13 @@ Please see attached file 'Relative positioning problem.png' for the question.
 
 - <b>Two Sum</b><br>
 Given an array of integers, return indices of the two numbers such that they add up to a specific target. You may assume that each input would have exactly one solution.
+
+- <b>Graph - Dijkstra's Algorithm</b>
+
+- <b>Graph - BFS and DFS traversals</b>
+
+- <b>MergeSort</b>
+
+- <b>QuickSort</b>
+
+- <b>Tree traversal: Preorder, inorder, postorder</b>
